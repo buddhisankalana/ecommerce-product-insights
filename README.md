@@ -71,4 +71,3 @@ This project showcases a full data analysis lifecycle:
 ## Author
 
 **Buddhi Sankalana Mahanama**
-* [Tableau Public Profile](https://public.tableau.com/app/profile/your-profile)
